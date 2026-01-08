@@ -45,7 +45,7 @@ Predictor Variables:
 
 -Generated stratified summaries by FMD status
 -Examined distributions across demographic and environmental variables
--Performed correlation analysis to identify multicollinearity
+-Performed correlation analysis to identify multicollinearity <a href="https://github.com/Lindamusundi47/Early-Detection-of-FMD-in-cattle-Using-Machine-Learning/commit/72ebd892db9ff2fd11e59cd1afaad9b073c50b55"> Correlation Analysis </a>
 
 ### 4. Feature Selection
 
