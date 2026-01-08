@@ -17,7 +17,7 @@ Using R, the analysis identifies key risk factors associated with FMD infection 
 
 ## Dataset Overview
 
-< a href="https://github.com/Lindamusundi47/Early-Detection-of-FMD-in-cattle-Using-Machine-Learning/blob/main/Raw%20data.xls"> Dataset </a>
+<a href="https://github.com/Lindamusundi47/Early-Detection-of-FMD-in-cattle-Using-Machine-Learning/blob/main/Raw%20data.xls"> Dataset </a>
 
 Observations: 266 cattle samples
 Target Variable: FMD_Status (Positive / Negative)
