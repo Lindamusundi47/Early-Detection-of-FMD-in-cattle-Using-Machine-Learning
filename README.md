@@ -17,7 +17,7 @@ Using R, the analysis identifies key risk factors associated with FMD infection 
 
 ## Dataset Overview
 
-< a href="https://github.com/Lindamusundi47/Early-Detection-of-FMD-in-cattle-Using-Machine-Learning/blob/main/Raw%20data.xls"> Dataset</a>
+< a href="https://github.com/Lindamusundi47/Early-Detection-of-FMD-in-cattle-Using-Machine-Learning/blob/main/Raw%20data.xls"> Dataset </a>
 
 Observations: 266 cattle samples
 Target Variable: FMD_Status (Positive / Negative)
@@ -60,13 +60,16 @@ Predictor Variables:
   2. Random Forest
   3. Support Vector Machine (SVM)
 
--Evaluated models using confusion matrices, ROC curves, and classification metrics
+-Evaluated models using confusion matrices, ROC curves, and classification metrics:
 
 Random Forest achieved the best performance, making it the most suitable model for early detection of FMD in this dataset.
 
 ## Key Insights
 
 -Poor body condition significantly increases the likelihood of FMD infection
+
 -Older cattle showed higher infection rates
+
 -Geographic location (Districts and Kebeles) strongly influenced disease prevalence
+
 -Agro-climate and physiological status were consistent predictors across models
